@@ -5,9 +5,9 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591992617659)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-david-621707300)
 
-![Neãnder GitHub stats](https://github-readme-stats.vercel.app/api?username=neander-d&show_icons=true&theme=radical)
+![neãnder GitHub stats](https://github-readme-stats.vercel.app/api?username=neander-d&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neander-d&layout=compact)
 
 ### Habilidades
 <div styles="display: inline_block"></br>
